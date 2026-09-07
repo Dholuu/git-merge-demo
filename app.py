@@ -1,5 +1,5 @@
 def greet():
-    return "Hello from the main branch!"
+    return "Hello from the merged feature!"
 
 
 if __name__ == "__main__":
