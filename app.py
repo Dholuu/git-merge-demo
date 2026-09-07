@@ -1,5 +1,5 @@
 def greet():
-    return "Hello from Git Merge Demo!"
+    return "Hello from the main branch!"
 
 
 if __name__ == "__main__":
